@@ -1,0 +1,2347 @@
+{
+      "short sleeved": {
+            "category": "state"
+      },
+      "neon": {
+            "category": "state"
+      },
+      "fuzzy": {
+            "category": "state"
+      },
+      "curled": {
+            "category": "state"
+      },
+      "muddy": {
+            "category": "state"
+      },
+      "coffee": {
+            "category": "state"
+      },
+      "dark grey": {
+            "category": "color",
+            "negations": [
+                  "light green",
+                  "blue and white",
+                  "evergreen",
+                  "red and white",
+                  "khaki",
+                  "blond",
+                  "maroon",
+                  "dark green",
+                  "golden",
+                  "dark blue",
+                  "black and white",
+                  "dark brown",
+                  "light blue",
+                  "light brown",
+                  "blonde",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "orange",
+                  "silver",
+                  "yellow",
+                  "brown",
+                  "red",
+                  "green",
+                  "blue",
+                  "black",
+                  "white"
+            ]
+      },
+      "toy": {
+            "category": "state"
+      },
+      "toilet": {
+            "category": "state"
+      },
+      "bathroom": {
+            "category": "state"
+      },
+      "triangular": {
+            "category": "shape",
+            "negations": [
+                  "oval",
+                  "circular",
+                  "rectangular",
+                  "square",
+                  "round"
+            ]
+      },
+      "window": {
+            "category": "state"
+      },
+      "wild": {
+            "category": "state"
+      },
+      "teddy": {
+            "category": "state"
+      },
+      "hairy": {
+            "category": "state"
+      },
+      "happy": {
+            "category": "state"
+      },
+      "nike": {
+            "category": "state"
+      },
+      "decorated": {
+            "category": "state"
+      },
+      "rough": {
+            "category": "state"
+      },
+      "fried": {
+            "category": "state"
+      },
+      "bushy": {
+            "category": "state"
+      },
+      "glowing": {
+            "category": "state"
+      },
+      "rock": {
+            "category": "material",
+            "negations": [
+                  "wicker",
+                  "hardwood",
+                  "marble",
+                  "cardboard",
+                  "porcelain",
+                  "rubber",
+                  "iron",
+                  "stainless steel",
+                  "chrome",
+                  "ceramic",
+                  "steel",
+                  "paper",
+                  "cement",
+                  "leather",
+                  "stone",
+                  "concrete",
+                  "gold",
+                  "brick",
+                  "plastic",
+                  "wood",
+                  "glass",
+                  "metal",
+                  "wooden"
+            ]
+      },
+      "glazed": {
+            "category": "state"
+      },
+      "wavy": {
+            "category": "state"
+      },
+      "chopped": {
+            "category": "state"
+      },
+      "snow": {
+            "category": "state"
+      },
+      "female": {
+            "category": "state"
+      },
+      "written": {
+            "category": "state"
+      },
+      "posing": {
+            "category": "action"
+      },
+      "shirtless": {
+            "category": "state"
+      },
+      "ornate": {
+            "category": "state"
+      },
+      "dried": {
+            "category": "state"
+      },
+      "sunny": {
+            "category": "state"
+      },
+      "wicker": {
+            "category": "material",
+            "negations": [
+                  "rock",
+                  "hardwood",
+                  "marble",
+                  "cardboard",
+                  "porcelain",
+                  "rubber",
+                  "iron",
+                  "stainless steel",
+                  "chrome",
+                  "ceramic",
+                  "steel",
+                  "paper",
+                  "cement",
+                  "leather",
+                  "stone",
+                  "concrete",
+                  "gold",
+                  "brick",
+                  "plastic",
+                  "wood",
+                  "glass",
+                  "metal",
+                  "wooden"
+            ]
+      },
+      "upside down": {
+            "category": "state"
+      },
+      "straight": {
+            "category": "state"
+      },
+      "asian": {
+            "category": "state"
+      },
+      "sharp": {
+            "category": "state"
+      },
+      "hardwood": {
+            "category": "material",
+            "negations": [
+                  "rock",
+                  "wicker",
+                  "marble",
+                  "cardboard",
+                  "porcelain",
+                  "rubber",
+                  "iron",
+                  "stainless steel",
+                  "chrome",
+                  "ceramic",
+                  "steel",
+                  "paper",
+                  "cement",
+                  "leather",
+                  "stone",
+                  "concrete",
+                  "gold",
+                  "brick",
+                  "plastic",
+                  "glass",
+                  "metal"
+            ]
+      },
+      "light green": {
+            "category": "color",
+            "negations": [
+                  "dark grey",
+                  "blue and white",
+                  "red and white",
+                  "khaki",
+                  "blond",
+                  "maroon",
+                  "dark green",
+                  "golden",
+                  "dark blue",
+                  "black and white",
+                  "dark brown",
+                  "light blue",
+                  "light brown",
+                  "blonde",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "grey",
+                  "orange",
+                  "silver",
+                  "gray",
+                  "yellow",
+                  "brown",
+                  "red",
+                  "blue",
+                  "black",
+                  "white"
+            ]
+      },
+      "blue and white": {
+            "category": "color",
+            "negations": [
+                  "dark grey",
+                  "light green",
+                  "evergreen",
+                  "red and white",
+                  "khaki",
+                  "blond",
+                  "maroon",
+                  "dark green",
+                  "golden",
+                  "black and white",
+                  "dark brown",
+                  "light blue",
+                  "light brown",
+                  "blonde",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "grey",
+                  "orange",
+                  "silver",
+                  "gray",
+                  "yellow",
+                  "brown",
+                  "red",
+                  "green",
+                  "black"
+            ]
+      },
+      "palm": {
+            "category": "state"
+      },
+      "splashing": {
+            "category": "action"
+      },
+      "resting": {
+            "category": "action"
+      },
+      "reflecting": {
+            "category": "action"
+      },
+      "talking": {
+            "category": "action"
+      },
+      "wrinkled": {
+            "category": "state"
+      },
+      "melted": {
+            "category": "state"
+      },
+      "marble": {
+            "category": "material",
+            "negations": [
+                  "rock",
+                  "wicker",
+                  "hardwood",
+                  "cardboard",
+                  "porcelain",
+                  "rubber",
+                  "iron",
+                  "stainless steel",
+                  "chrome",
+                  "ceramic",
+                  "steel",
+                  "paper",
+                  "cement",
+                  "leather",
+                  "concrete",
+                  "gold",
+                  "brick",
+                  "plastic",
+                  "wood",
+                  "glass",
+                  "metal",
+                  "wooden"
+            ]
+      },
+      "stop": {
+            "category": "state"
+      },
+      "illuminated": {
+            "category": "state"
+      },
+      "low": {
+            "category": "state"
+      },
+      "vertical": {
+            "category": "state"
+      },
+      "double decker": {
+            "category": "state"
+      },
+      "oval": {
+            "category": "shape",
+            "negations": [
+                  "triangular",
+                  "circular",
+                  "rectangular",
+                  "square",
+                  "round"
+            ]
+      },
+      "seated": {
+            "category": "state"
+      },
+      "airborne": {
+            "category": "state"
+      },
+      "evergreen": {
+            "category": "color",
+            "negations": [
+                  "dark grey",
+                  "blue and white",
+                  "red and white",
+                  "khaki",
+                  "blond",
+                  "maroon",
+                  "golden",
+                  "dark blue",
+                  "black and white",
+                  "dark brown",
+                  "light blue",
+                  "light brown",
+                  "blonde",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "grey",
+                  "orange",
+                  "silver",
+                  "gray",
+                  "yellow",
+                  "brown",
+                  "red",
+                  "blue",
+                  "black",
+                  "white"
+            ]
+      },
+      "red and white": {
+            "category": "color",
+            "negations": [
+                  "dark grey",
+                  "light green",
+                  "blue and white",
+                  "evergreen",
+                  "khaki",
+                  "blond",
+                  "maroon",
+                  "dark green",
+                  "golden",
+                  "dark blue",
+                  "black and white",
+                  "dark brown",
+                  "light blue",
+                  "light brown",
+                  "blonde",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "grey",
+                  "orange",
+                  "silver",
+                  "gray",
+                  "yellow",
+                  "brown",
+                  "green",
+                  "blue",
+                  "black"
+            ]
+      },
+      "outdoors": {
+            "category": "state"
+      },
+      "rusted": {
+            "category": "state"
+      },
+      "sleeping": {
+            "category": "action"
+      },
+      "wine": {
+            "category": "state"
+      },
+      "opened": {
+            "category": "state"
+      },
+      "piled": {
+            "category": "state"
+      },
+      "several": {
+            "category": "state"
+      },
+      "driving": {
+            "category": "action"
+      },
+      "shining": {
+            "category": "state"
+      },
+      "puffy": {
+            "category": "state"
+      },
+      "american": {
+            "category": "state"
+      },
+      "extended": {
+            "category": "state"
+      },
+      "roman": {
+            "category": "state"
+      },
+      "khaki": {
+            "category": "color",
+            "negations": [
+                  "dark grey",
+                  "light green",
+                  "blue and white",
+                  "evergreen",
+                  "red and white",
+                  "blond",
+                  "maroon",
+                  "dark green",
+                  "golden",
+                  "dark blue",
+                  "black and white",
+                  "dark brown",
+                  "light blue",
+                  "light brown",
+                  "blonde",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "grey",
+                  "orange",
+                  "silver",
+                  "gray",
+                  "yellow",
+                  "brown",
+                  "red",
+                  "green",
+                  "blue",
+                  "black",
+                  "white"
+            ]
+      },
+      "narrow": {
+            "category": "size",
+            "negations": [
+                  "wide",
+                  "thick"
+            ]
+      },
+      "reflective": {
+            "category": "state"
+      },
+      "skateboarding": {
+            "category": "action"
+      },
+      "snow covered": {
+            "category": "state"
+      },
+      "bald": {
+            "category": "state"
+      },
+      "many": {
+            "category": "state"
+      },
+      "raised": {
+            "category": "state"
+      },
+      "pine": {
+            "category": "state"
+      },
+      "older": {
+            "category": "state"
+      },
+      "computer": {
+            "category": "state"
+      },
+      "hazy": {
+            "category": "state"
+      },
+      "smooth": {
+            "category": "state"
+      },
+      "male": {
+            "category": "state"
+      },
+      "four": {
+            "category": "state"
+      },
+      "cream": {
+            "category": "state"
+      },
+      "blond": {
+            "category": "color",
+            "negations": [
+                  "dark grey",
+                  "light green",
+                  "blue and white",
+                  "evergreen",
+                  "red and white",
+                  "khaki",
+                  "maroon",
+                  "dark green",
+                  "dark blue",
+                  "black and white",
+                  "dark brown",
+                  "light blue",
+                  "light brown",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "grey",
+                  "orange",
+                  "silver",
+                  "gray",
+                  "brown",
+                  "red",
+                  "green",
+                  "blue",
+                  "black",
+                  "white"
+            ]
+      },
+      "jumping": {
+            "category": "action"
+      },
+      "cardboard": {
+            "category": "material",
+            "negations": [
+                  "rock",
+                  "wicker",
+                  "hardwood",
+                  "marble",
+                  "porcelain",
+                  "rubber",
+                  "iron",
+                  "stainless steel",
+                  "chrome",
+                  "ceramic",
+                  "steel",
+                  "paper",
+                  "cement",
+                  "leather",
+                  "stone",
+                  "concrete",
+                  "gold",
+                  "brick",
+                  "plastic",
+                  "wood",
+                  "glass",
+                  "metal",
+                  "wooden"
+            ]
+      },
+      "curly": {
+            "category": "state"
+      },
+      "cloudless": {
+            "category": "state"
+      },
+      "adult": {
+            "category": "state"
+      },
+      "porcelain": {
+            "category": "material",
+            "negations": [
+                  "rock",
+                  "wicker",
+                  "hardwood",
+                  "marble",
+                  "cardboard",
+                  "rubber",
+                  "iron",
+                  "stainless steel",
+                  "chrome",
+                  "ceramic",
+                  "steel",
+                  "paper",
+                  "cement",
+                  "leather",
+                  "stone",
+                  "concrete",
+                  "gold",
+                  "brick",
+                  "plastic",
+                  "wood",
+                  "glass",
+                  "metal",
+                  "wooden"
+            ]
+      },
+      "grass": {
+            "category": "state"
+      },
+      "skinny": {
+            "category": "state"
+      },
+      "rubber": {
+            "category": "material",
+            "negations": [
+                  "rock",
+                  "wicker",
+                  "hardwood",
+                  "marble",
+                  "cardboard",
+                  "porcelain",
+                  "iron",
+                  "stainless steel",
+                  "chrome",
+                  "ceramic",
+                  "steel",
+                  "paper",
+                  "cement",
+                  "leather",
+                  "stone",
+                  "concrete",
+                  "gold",
+                  "brick",
+                  "plastic",
+                  "wood",
+                  "glass",
+                  "metal",
+                  "wooden"
+            ]
+      },
+      "riding": {
+            "category": "action"
+      },
+      "waiting": {
+            "category": "action"
+      },
+      "overcast": {
+            "category": "state"
+      },
+      "ski": {
+            "category": "state"
+      },
+      "patterned": {
+            "category": "state"
+      },
+      "worn": {
+            "category": "state"
+      },
+      "iron": {
+            "category": "material",
+            "negations": [
+                  "rock",
+                  "wicker",
+                  "hardwood",
+                  "marble",
+                  "cardboard",
+                  "porcelain",
+                  "rubber",
+                  "stainless steel",
+                  "chrome",
+                  "ceramic",
+                  "steel",
+                  "paper",
+                  "cement",
+                  "leather",
+                  "stone",
+                  "concrete",
+                  "gold",
+                  "brick",
+                  "plastic",
+                  "wood",
+                  "glass",
+                  "wooden"
+            ]
+      },
+      "maroon": {
+            "category": "color",
+            "negations": [
+                  "dark grey",
+                  "light green",
+                  "blue and white",
+                  "evergreen",
+                  "red and white",
+                  "khaki",
+                  "blond",
+                  "dark green",
+                  "golden",
+                  "dark blue",
+                  "black and white",
+                  "dark brown",
+                  "light blue",
+                  "light brown",
+                  "blonde",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "grey",
+                  "orange",
+                  "silver",
+                  "gray",
+                  "yellow",
+                  "brown",
+                  "red",
+                  "green",
+                  "blue",
+                  "black",
+                  "white"
+            ]
+      },
+      "broken": {
+            "category": "state"
+      },
+      "checkered": {
+            "category": "state"
+      },
+      "chain link": {
+            "category": "state"
+      },
+      "background": {
+            "category": "state"
+      },
+      "some": {
+            "category": "state"
+      },
+      "huge": {
+            "category": "size",
+            "negations": [
+                  "tiny",
+                  "little",
+                  "small"
+            ]
+      },
+      "pair": {
+            "category": "state"
+      },
+      "woman's": {
+            "category": "state"
+      },
+      "moving": {
+            "category": "action"
+      },
+      "dark green": {
+            "category": "color",
+            "negations": [
+                  "dark grey",
+                  "light green",
+                  "blue and white",
+                  "red and white",
+                  "khaki",
+                  "blond",
+                  "maroon",
+                  "golden",
+                  "dark blue",
+                  "black and white",
+                  "dark brown",
+                  "light blue",
+                  "light brown",
+                  "blonde",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "grey",
+                  "orange",
+                  "silver",
+                  "gray",
+                  "yellow",
+                  "brown",
+                  "red",
+                  "blue",
+                  "black",
+                  "white"
+            ]
+      },
+      "leaning": {
+            "category": "action"
+      },
+      "surfing": {
+            "category": "action"
+      },
+      "high": {
+            "category": "size",
+            "negations": []
+      },
+      "stainless steel": {
+            "category": "material",
+            "negations": [
+                  "rock",
+                  "wicker",
+                  "hardwood",
+                  "marble",
+                  "cardboard",
+                  "porcelain",
+                  "rubber",
+                  "iron",
+                  "chrome",
+                  "ceramic",
+                  "paper",
+                  "cement",
+                  "leather",
+                  "stone",
+                  "concrete",
+                  "gold",
+                  "brick",
+                  "plastic",
+                  "wood",
+                  "glass",
+                  "wooden"
+            ]
+      },
+      "floral": {
+            "category": "state"
+      },
+      "fresh": {
+            "category": "state"
+      },
+      "tiny": {
+            "category": "size",
+            "negations": [
+                  "huge",
+                  "big",
+                  "large"
+            ]
+      },
+      "rocky": {
+            "category": "state"
+      },
+      "laying": {
+            "category": "action"
+      },
+      "traffic": {
+            "category": "state"
+      },
+      "furry": {
+            "category": "state"
+      },
+      "rusty": {
+            "category": "state"
+      },
+      "electric": {
+            "category": "state"
+      },
+      "leafless": {
+            "category": "state"
+      },
+      "running": {
+            "category": "action"
+      },
+      "pointy": {
+            "category": "state"
+      },
+      "electrical": {
+            "category": "state"
+      },
+      "folded": {
+            "category": "state"
+      },
+      "spotted": {
+            "category": "state"
+      },
+      "snowy": {
+            "category": "state"
+      },
+      "metallic": {
+            "category": "state"
+      },
+      "arched": {
+            "category": "state"
+      },
+      "water": {
+            "category": "state"
+      },
+      "train": {
+            "category": "state"
+      },
+      "bent": {
+            "category": "state"
+      },
+      "chrome": {
+            "category": "material",
+            "negations": [
+                  "rock",
+                  "wicker",
+                  "hardwood",
+                  "marble",
+                  "cardboard",
+                  "porcelain",
+                  "rubber",
+                  "iron",
+                  "ceramic",
+                  "paper",
+                  "cement",
+                  "leather",
+                  "stone",
+                  "concrete",
+                  "gold",
+                  "brick",
+                  "plastic",
+                  "wood",
+                  "glass",
+                  "wooden"
+            ]
+      },
+      "growing": {
+            "category": "action"
+      },
+      "wide": {
+            "category": "size",
+            "negations": [
+                  "narrow"
+            ]
+      },
+      "chocolate": {
+            "category": "state"
+      },
+      "blurry": {
+            "category": "state"
+      },
+      "golden": {
+            "category": "color",
+            "negations": [
+                  "dark grey",
+                  "light green",
+                  "blue and white",
+                  "evergreen",
+                  "red and white",
+                  "khaki",
+                  "maroon",
+                  "dark green",
+                  "dark blue",
+                  "black and white",
+                  "dark brown",
+                  "light blue",
+                  "light brown",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "grey",
+                  "orange",
+                  "silver",
+                  "gray",
+                  "yellow",
+                  "brown",
+                  "red",
+                  "green",
+                  "blue",
+                  "black",
+                  "white"
+            ]
+      },
+      "sandy": {
+            "category": "state"
+      },
+      "grazing": {
+            "category": "state"
+      },
+      "ceramic": {
+            "category": "material",
+            "negations": [
+                  "rock",
+                  "wicker",
+                  "hardwood",
+                  "marble",
+                  "cardboard",
+                  "rubber",
+                  "iron",
+                  "stainless steel",
+                  "chrome",
+                  "steel",
+                  "paper",
+                  "cement",
+                  "leather",
+                  "stone",
+                  "concrete",
+                  "gold",
+                  "brick",
+                  "plastic",
+                  "wood",
+                  "glass",
+                  "metal",
+                  "wooden"
+            ]
+      },
+      "beautiful": {
+            "category": "state"
+      },
+      "dark blue": {
+            "category": "color",
+            "negations": [
+                  "dark grey",
+                  "light green",
+                  "evergreen",
+                  "red and white",
+                  "khaki",
+                  "blond",
+                  "maroon",
+                  "dark green",
+                  "golden",
+                  "black and white",
+                  "dark brown",
+                  "light blue",
+                  "light brown",
+                  "blonde",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "grey",
+                  "orange",
+                  "silver",
+                  "gray",
+                  "yellow",
+                  "brown",
+                  "red",
+                  "green",
+                  "black",
+                  "white"
+            ]
+      },
+      "black and white": {
+            "category": "color",
+            "negations": [
+                  "dark grey",
+                  "light green",
+                  "blue and white",
+                  "evergreen",
+                  "red and white",
+                  "khaki",
+                  "blond",
+                  "maroon",
+                  "dark green",
+                  "golden",
+                  "dark blue",
+                  "dark brown",
+                  "light blue",
+                  "light brown",
+                  "blonde",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "grey",
+                  "orange",
+                  "silver",
+                  "gray",
+                  "yellow",
+                  "brown",
+                  "red",
+                  "green",
+                  "blue"
+            ]
+      },
+      "baby": {
+            "category": "state"
+      },
+      "skiing": {
+            "category": "action"
+      },
+      "flat": {
+            "category": "state"
+      },
+      "street": {
+            "category": "state"
+      },
+      "three": {
+            "category": "state"
+      },
+      "full": {
+            "category": "state"
+      },
+      "covered": {
+            "category": "state"
+      },
+      "stacked": {
+            "category": "state"
+      },
+      "steel": {
+            "category": "material",
+            "negations": [
+                  "rock",
+                  "wicker",
+                  "hardwood",
+                  "marble",
+                  "cardboard",
+                  "porcelain",
+                  "rubber",
+                  "iron",
+                  "chrome",
+                  "ceramic",
+                  "paper",
+                  "cement",
+                  "leather",
+                  "stone",
+                  "concrete",
+                  "gold",
+                  "brick",
+                  "plastic",
+                  "wood",
+                  "glass",
+                  "wooden"
+            ]
+      },
+      "clean": {
+            "category": "state"
+      },
+      "dark brown": {
+            "category": "color",
+            "negations": [
+                  "dark grey",
+                  "light green",
+                  "blue and white",
+                  "evergreen",
+                  "red and white",
+                  "khaki",
+                  "blond",
+                  "maroon",
+                  "dark green",
+                  "golden",
+                  "dark blue",
+                  "black and white",
+                  "light blue",
+                  "light brown",
+                  "blonde",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "grey",
+                  "orange",
+                  "silver",
+                  "gray",
+                  "yellow",
+                  "red",
+                  "green",
+                  "blue",
+                  "black",
+                  "white"
+            ]
+      },
+      "circular": {
+            "category": "shape",
+            "negations": [
+                  "triangular",
+                  "oval",
+                  "rectangular",
+                  "square"
+            ]
+      },
+      "stuffed": {
+            "category": "state"
+      },
+      "colored": {
+            "category": "color",
+            "negations": []
+      },
+      "plaid": {
+            "category": "state"
+      },
+      "framed": {
+            "category": "state"
+      },
+      "lit": {
+            "category": "state"
+      },
+      "fluffy": {
+            "category": "state"
+      },
+      "paved": {
+            "category": "state"
+      },
+      "paper": {
+            "category": "material",
+            "negations": [
+                  "rock",
+                  "wicker",
+                  "hardwood",
+                  "marble",
+                  "cardboard",
+                  "porcelain",
+                  "rubber",
+                  "iron",
+                  "stainless steel",
+                  "chrome",
+                  "ceramic",
+                  "steel",
+                  "cement",
+                  "leather",
+                  "stone",
+                  "concrete",
+                  "gold",
+                  "brick",
+                  "plastic",
+                  "wood",
+                  "glass",
+                  "metal",
+                  "wooden"
+            ]
+      },
+      "eating": {
+            "category": "action"
+      },
+      "dead": {
+            "category": "state"
+      },
+      "decorative": {
+            "category": "state"
+      },
+      "curved": {
+            "category": "state"
+      },
+      "cooked": {
+            "category": "state"
+      },
+      "baseball": {
+            "category": "state"
+      },
+      "light blue": {
+            "category": "color",
+            "negations": [
+                  "dark grey",
+                  "light green",
+                  "evergreen",
+                  "red and white",
+                  "khaki",
+                  "blond",
+                  "maroon",
+                  "dark green",
+                  "golden",
+                  "dark blue",
+                  "black and white",
+                  "dark brown",
+                  "light brown",
+                  "blonde",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "grey",
+                  "orange",
+                  "silver",
+                  "gray",
+                  "yellow",
+                  "brown",
+                  "red",
+                  "green",
+                  "black",
+                  "white"
+            ]
+      },
+      "man's": {
+            "category": "state"
+      },
+      "tiled": {
+            "category": "state"
+      },
+      "leafy": {
+            "category": "state"
+      },
+      "cement": {
+            "category": "material",
+            "negations": [
+                  "rock",
+                  "wicker",
+                  "hardwood",
+                  "marble",
+                  "cardboard",
+                  "porcelain",
+                  "rubber",
+                  "iron",
+                  "stainless steel",
+                  "chrome",
+                  "ceramic",
+                  "steel",
+                  "paper",
+                  "leather",
+                  "stone",
+                  "gold",
+                  "brick",
+                  "plastic",
+                  "wood",
+                  "glass",
+                  "metal",
+                  "wooden"
+            ]
+      },
+      "light brown": {
+            "category": "color",
+            "negations": [
+                  "dark grey",
+                  "light green",
+                  "blue and white",
+                  "evergreen",
+                  "red and white",
+                  "khaki",
+                  "blond",
+                  "maroon",
+                  "dark green",
+                  "golden",
+                  "dark blue",
+                  "black and white",
+                  "dark brown",
+                  "light blue",
+                  "blonde",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "grey",
+                  "orange",
+                  "silver",
+                  "gray",
+                  "yellow",
+                  "red",
+                  "green",
+                  "blue",
+                  "black",
+                  "white"
+            ]
+      },
+      "dry": {
+            "category": "state"
+      },
+      "grassy": {
+            "category": "state"
+      },
+      "rectangular": {
+            "category": "shape",
+            "negations": [
+                  "triangular",
+                  "oval",
+                  "circular",
+                  "round"
+            ]
+      },
+      "leather": {
+            "category": "material",
+            "negations": [
+                  "rock",
+                  "wicker",
+                  "hardwood",
+                  "marble",
+                  "cardboard",
+                  "porcelain",
+                  "rubber",
+                  "iron",
+                  "stainless steel",
+                  "chrome",
+                  "ceramic",
+                  "steel",
+                  "paper",
+                  "cement",
+                  "stone",
+                  "concrete",
+                  "gold",
+                  "brick",
+                  "plastic",
+                  "wood",
+                  "glass",
+                  "metal",
+                  "wooden"
+            ]
+      },
+      "calm": {
+            "category": "state"
+      },
+      "tennis": {
+            "category": "state"
+      },
+      "sliced": {
+            "category": "state"
+      },
+      "thick": {
+            "category": "size",
+            "negations": [
+                  "narrow",
+                  "thin"
+            ]
+      },
+      "painted": {
+            "category": "state"
+      },
+      "smiling": {
+            "category": "state"
+      },
+      "flying": {
+            "category": "action"
+      },
+      "dirty": {
+            "category": "state"
+      },
+      "thin": {
+            "category": "size",
+            "negations": [
+                  "wide",
+                  "thick"
+            ]
+      },
+      "shiny": {
+            "category": "state"
+      },
+      "blonde": {
+            "category": "color",
+            "negations": [
+                  "dark grey",
+                  "light green",
+                  "blue and white",
+                  "evergreen",
+                  "red and white",
+                  "khaki",
+                  "maroon",
+                  "dark green",
+                  "dark blue",
+                  "black and white",
+                  "dark brown",
+                  "light blue",
+                  "light brown",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "grey",
+                  "orange",
+                  "silver",
+                  "gray",
+                  "brown",
+                  "red",
+                  "green",
+                  "blue",
+                  "black",
+                  "white"
+            ]
+      },
+      "stone": {
+            "category": "material",
+            "negations": [
+                  "rock",
+                  "wicker",
+                  "hardwood",
+                  "cardboard",
+                  "porcelain",
+                  "rubber",
+                  "iron",
+                  "stainless steel",
+                  "chrome",
+                  "ceramic",
+                  "steel",
+                  "paper",
+                  "leather",
+                  "gold",
+                  "brick",
+                  "plastic",
+                  "wood",
+                  "glass",
+                  "metal",
+                  "wooden"
+            ]
+      },
+      "closed": {
+            "category": "state"
+      },
+      "little": {
+            "category": "size",
+            "negations": [
+                  "huge",
+                  "big",
+                  "large"
+            ]
+      },
+      "square": {
+            "category": "shape",
+            "negations": [
+                  "triangular",
+                  "oval",
+                  "circular",
+                  "round"
+            ]
+      },
+      "light": {
+            "category": "state"
+      },
+      "wet": {
+            "category": "state"
+      },
+      "bare": {
+            "category": "state"
+      },
+      "beige": {
+            "category": "color",
+            "negations": [
+                  "dark grey",
+                  "light green",
+                  "blue and white",
+                  "evergreen",
+                  "red and white",
+                  "khaki",
+                  "blond",
+                  "maroon",
+                  "dark green",
+                  "golden",
+                  "dark blue",
+                  "black and white",
+                  "dark brown",
+                  "light blue",
+                  "light brown",
+                  "blonde",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "grey",
+                  "orange",
+                  "silver",
+                  "gray",
+                  "yellow",
+                  "brown",
+                  "red",
+                  "green",
+                  "blue",
+                  "black",
+                  "white"
+            ]
+      },
+      "one": {
+            "category": "state"
+      },
+      "colorful": {
+            "category": "color",
+            "negations": []
+      },
+      "cloudy": {
+            "category": "state"
+      },
+      "concrete": {
+            "category": "material",
+            "negations": [
+                  "rock",
+                  "wicker",
+                  "hardwood",
+                  "marble",
+                  "cardboard",
+                  "porcelain",
+                  "rubber",
+                  "iron",
+                  "stainless steel",
+                  "chrome",
+                  "ceramic",
+                  "steel",
+                  "paper",
+                  "leather",
+                  "stone",
+                  "gold",
+                  "brick",
+                  "plastic",
+                  "wood",
+                  "glass",
+                  "metal",
+                  "wooden"
+            ]
+      },
+      "bright": {
+            "category": "state"
+      },
+      "empty": {
+            "category": "state"
+      },
+      "old": {
+            "category": "state"
+      },
+      "gold": {
+            "category": "material",
+            "negations": [
+                  "rock",
+                  "wicker",
+                  "hardwood",
+                  "marble",
+                  "cardboard",
+                  "porcelain",
+                  "rubber",
+                  "iron",
+                  "stainless steel",
+                  "chrome",
+                  "ceramic",
+                  "steel",
+                  "paper",
+                  "cement",
+                  "leather",
+                  "stone",
+                  "concrete",
+                  "brick",
+                  "plastic",
+                  "wood",
+                  "glass",
+                  "metal",
+                  "wooden"
+            ]
+      },
+      "young": {
+            "category": "state"
+      },
+      "brick": {
+            "category": "material",
+            "negations": [
+                  "rock",
+                  "wicker",
+                  "hardwood",
+                  "marble",
+                  "cardboard",
+                  "porcelain",
+                  "rubber",
+                  "iron",
+                  "stainless steel",
+                  "chrome",
+                  "ceramic",
+                  "steel",
+                  "paper",
+                  "cement",
+                  "leather",
+                  "stone",
+                  "concrete",
+                  "gold",
+                  "plastic",
+                  "wood",
+                  "glass",
+                  "metal",
+                  "wooden"
+            ]
+      },
+      "striped": {
+            "category": "state"
+      },
+      "walking": {
+            "category": "action"
+      },
+      "sitting": {
+            "category": "action"
+      },
+      "parked": {
+            "category": "state"
+      },
+      "plastic": {
+            "category": "material",
+            "negations": [
+                  "rock",
+                  "wicker",
+                  "hardwood",
+                  "marble",
+                  "cardboard",
+                  "porcelain",
+                  "rubber",
+                  "iron",
+                  "stainless steel",
+                  "chrome",
+                  "ceramic",
+                  "steel",
+                  "paper",
+                  "cement",
+                  "leather",
+                  "stone",
+                  "concrete",
+                  "gold",
+                  "brick",
+                  "wood",
+                  "glass",
+                  "metal",
+                  "wooden"
+            ]
+      },
+      "short": {
+            "category": "size",
+            "negations": [
+                  "long",
+                  "tall"
+            ]
+      },
+      "big": {
+            "category": "size",
+            "negations": [
+                  "tiny",
+                  "little",
+                  "small"
+            ]
+      },
+      "purple": {
+            "category": "color",
+            "negations": [
+                  "dark grey",
+                  "light green",
+                  "blue and white",
+                  "evergreen",
+                  "red and white",
+                  "khaki",
+                  "blond",
+                  "maroon",
+                  "dark green",
+                  "golden",
+                  "dark blue",
+                  "black and white",
+                  "dark brown",
+                  "light blue",
+                  "light brown",
+                  "blonde",
+                  "beige",
+                  "tan",
+                  "pink",
+                  "grey",
+                  "orange",
+                  "silver",
+                  "gray",
+                  "yellow",
+                  "brown",
+                  "red",
+                  "green",
+                  "blue",
+                  "black",
+                  "white"
+            ]
+      },
+      "open": {
+            "category": "state"
+      },
+      "wood": {
+            "category": "material",
+            "negations": [
+                  "rock",
+                  "wicker",
+                  "marble",
+                  "cardboard",
+                  "porcelain",
+                  "rubber",
+                  "iron",
+                  "stainless steel",
+                  "chrome",
+                  "ceramic",
+                  "steel",
+                  "paper",
+                  "cement",
+                  "leather",
+                  "stone",
+                  "concrete",
+                  "gold",
+                  "brick",
+                  "plastic",
+                  "glass",
+                  "metal"
+            ]
+      },
+      "glass": {
+            "category": "material",
+            "negations": [
+                  "rock",
+                  "wicker",
+                  "hardwood",
+                  "marble",
+                  "cardboard",
+                  "porcelain",
+                  "rubber",
+                  "iron",
+                  "stainless steel",
+                  "chrome",
+                  "ceramic",
+                  "steel",
+                  "paper",
+                  "cement",
+                  "leather",
+                  "stone",
+                  "concrete",
+                  "gold",
+                  "brick",
+                  "plastic",
+                  "wood",
+                  "metal",
+                  "wooden"
+            ]
+      },
+      "tan": {
+            "category": "color",
+            "negations": []
+      },
+      "round": {
+            "category": "shape",
+            "negations": [
+                  "triangular",
+                  "oval",
+                  "rectangular",
+                  "square"
+            ]
+      },
+      "standing": {
+            "category": "action"
+      },
+      "clear": {
+            "category": "state"
+      },
+      "pink": {
+            "category": "color",
+            "negations": [
+                  "dark grey",
+                  "light green",
+                  "blue and white",
+                  "evergreen",
+                  "red and white",
+                  "khaki",
+                  "blond",
+                  "maroon",
+                  "dark green",
+                  "golden",
+                  "dark blue",
+                  "black and white",
+                  "dark brown",
+                  "light blue",
+                  "light brown",
+                  "blonde",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "grey",
+                  "orange",
+                  "silver",
+                  "gray",
+                  "yellow",
+                  "brown",
+                  "red",
+                  "green",
+                  "blue",
+                  "black",
+                  "white"
+            ]
+      },
+      "dark": {
+            "category": "state"
+      },
+      "long": {
+            "category": "size",
+            "negations": [
+                  "short"
+            ]
+      },
+      "tall": {
+            "category": "size",
+            "negations": [
+                  "short"
+            ]
+      },
+      "grey": {
+            "category": "color",
+            "negations": [
+                  "light green",
+                  "blue and white",
+                  "evergreen",
+                  "red and white",
+                  "khaki",
+                  "blond",
+                  "maroon",
+                  "dark green",
+                  "golden",
+                  "dark blue",
+                  "black and white",
+                  "dark brown",
+                  "light blue",
+                  "light brown",
+                  "blonde",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "orange",
+                  "silver",
+                  "yellow",
+                  "brown",
+                  "red",
+                  "green",
+                  "blue",
+                  "black",
+                  "white"
+            ]
+      },
+      "orange": {
+            "category": "color",
+            "negations": [
+                  "dark grey",
+                  "light green",
+                  "blue and white",
+                  "evergreen",
+                  "red and white",
+                  "khaki",
+                  "blond",
+                  "maroon",
+                  "dark green",
+                  "golden",
+                  "dark blue",
+                  "black and white",
+                  "dark brown",
+                  "light blue",
+                  "light brown",
+                  "blonde",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "grey",
+                  "silver",
+                  "gray",
+                  "yellow",
+                  "brown",
+                  "red",
+                  "green",
+                  "blue",
+                  "black",
+                  "white"
+            ]
+      },
+      "metal": {
+            "category": "material",
+            "negations": [
+                  "rock",
+                  "wicker",
+                  "hardwood",
+                  "marble",
+                  "cardboard",
+                  "porcelain",
+                  "rubber",
+                  "iron",
+                  "chrome",
+                  "ceramic",
+                  "paper",
+                  "cement",
+                  "leather",
+                  "stone",
+                  "concrete",
+                  "gold",
+                  "brick",
+                  "plastic",
+                  "wood",
+                  "glass",
+                  "wooden"
+            ]
+      },
+      "silver": {
+            "category": "color",
+            "negations": [
+                  "dark grey",
+                  "light green",
+                  "blue and white",
+                  "evergreen",
+                  "red and white",
+                  "khaki",
+                  "blond",
+                  "maroon",
+                  "dark green",
+                  "golden",
+                  "dark blue",
+                  "black and white",
+                  "dark brown",
+                  "light blue",
+                  "light brown",
+                  "blonde",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "grey",
+                  "orange",
+                  "gray",
+                  "yellow",
+                  "brown",
+                  "red",
+                  "green",
+                  "blue",
+                  "black",
+                  "white"
+            ]
+      },
+      "gray": {
+            "category": "color",
+            "negations": [
+                  "light green",
+                  "blue and white",
+                  "evergreen",
+                  "red and white",
+                  "khaki",
+                  "blond",
+                  "maroon",
+                  "dark green",
+                  "golden",
+                  "dark blue",
+                  "black and white",
+                  "dark brown",
+                  "light blue",
+                  "light brown",
+                  "blonde",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "orange",
+                  "silver",
+                  "yellow",
+                  "brown",
+                  "red",
+                  "green",
+                  "blue",
+                  "black",
+                  "white"
+            ]
+      },
+      "wooden": {
+            "category": "material",
+            "negations": [
+                  "rock",
+                  "wicker",
+                  "marble",
+                  "cardboard",
+                  "porcelain",
+                  "rubber",
+                  "iron",
+                  "stainless steel",
+                  "chrome",
+                  "ceramic",
+                  "steel",
+                  "paper",
+                  "cement",
+                  "leather",
+                  "stone",
+                  "concrete",
+                  "gold",
+                  "brick",
+                  "plastic",
+                  "glass",
+                  "metal"
+            ]
+      },
+      "large": {
+            "category": "size",
+            "negations": [
+                  "tiny",
+                  "little",
+                  "small"
+            ]
+      },
+      "small": {
+            "category": "size",
+            "negations": [
+                  "huge",
+                  "big",
+                  "large"
+            ]
+      },
+      "yellow": {
+            "category": "color",
+            "negations": [
+                  "dark grey",
+                  "light green",
+                  "blue and white",
+                  "evergreen",
+                  "red and white",
+                  "khaki",
+                  "maroon",
+                  "dark green",
+                  "dark blue",
+                  "black and white",
+                  "dark brown",
+                  "light blue",
+                  "light brown",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "grey",
+                  "orange",
+                  "silver",
+                  "gray",
+                  "brown",
+                  "red",
+                  "green",
+                  "blue",
+                  "black",
+                  "white"
+            ]
+      },
+      "brown": {
+            "category": "color",
+            "negations": [
+                  "dark grey",
+                  "light green",
+                  "blue and white",
+                  "evergreen",
+                  "red and white",
+                  "khaki",
+                  "blond",
+                  "maroon",
+                  "dark green",
+                  "golden",
+                  "dark blue",
+                  "black and white",
+                  "light blue",
+                  "blonde",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "grey",
+                  "orange",
+                  "silver",
+                  "gray",
+                  "yellow",
+                  "red",
+                  "green",
+                  "blue",
+                  "black",
+                  "white"
+            ]
+      },
+      "red": {
+            "category": "color",
+            "negations": [
+                  "dark grey",
+                  "light green",
+                  "blue and white",
+                  "evergreen",
+                  "khaki",
+                  "blond",
+                  "maroon",
+                  "dark green",
+                  "golden",
+                  "dark blue",
+                  "black and white",
+                  "dark brown",
+                  "light blue",
+                  "light brown",
+                  "blonde",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "grey",
+                  "orange",
+                  "silver",
+                  "gray",
+                  "yellow",
+                  "brown",
+                  "green",
+                  "blue",
+                  "black",
+                  "white"
+            ]
+      },
+      "green": {
+            "category": "color",
+            "negations": [
+                  "dark grey",
+                  "blue and white",
+                  "red and white",
+                  "khaki",
+                  "blond",
+                  "maroon",
+                  "golden",
+                  "dark blue",
+                  "black and white",
+                  "dark brown",
+                  "light blue",
+                  "light brown",
+                  "blonde",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "grey",
+                  "orange",
+                  "silver",
+                  "gray",
+                  "yellow",
+                  "brown",
+                  "red",
+                  "blue",
+                  "black",
+                  "white"
+            ]
+      },
+      "blue": {
+            "category": "color",
+            "negations": [
+                  "dark grey",
+                  "light green",
+                  "evergreen",
+                  "red and white",
+                  "khaki",
+                  "blond",
+                  "maroon",
+                  "dark green",
+                  "golden",
+                  "black and white",
+                  "dark brown",
+                  "light brown",
+                  "blonde",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "grey",
+                  "orange",
+                  "silver",
+                  "gray",
+                  "yellow",
+                  "brown",
+                  "red",
+                  "green",
+                  "black",
+                  "white"
+            ]
+      },
+      "black": {
+            "category": "color",
+            "negations": [
+                  "dark grey",
+                  "light green",
+                  "blue and white",
+                  "evergreen",
+                  "red and white",
+                  "khaki",
+                  "blond",
+                  "maroon",
+                  "dark green",
+                  "golden",
+                  "dark blue",
+                  "dark brown",
+                  "light blue",
+                  "light brown",
+                  "blonde",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "grey",
+                  "orange",
+                  "silver",
+                  "gray",
+                  "yellow",
+                  "brown",
+                  "red",
+                  "green",
+                  "blue",
+                  "white"
+            ]
+      },
+      "white": {
+            "category": "color",
+            "negations": [
+                  "dark grey",
+                  "light green",
+                  "blue and white",
+                  "evergreen",
+                  "red and white",
+                  "khaki",
+                  "blond",
+                  "maroon",
+                  "dark green",
+                  "golden",
+                  "dark blue",
+                  "dark brown",
+                  "light blue",
+                  "light brown",
+                  "blonde",
+                  "beige",
+                  "purple",
+                  "tan",
+                  "pink",
+                  "grey",
+                  "orange",
+                  "silver",
+                  "gray",
+                  "yellow",
+                  "brown",
+                  "red",
+                  "green",
+                  "blue",
+                  "black"
+            ]
+      }
+}

@@ -1,0 +1,3002 @@
+{
+      "pulled by": {
+            "symmetry": "yes",
+            "negations": "pushed by",
+            "action": "no",
+            "state": "yes"
+      },
+      "rests on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "street": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "touches": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "crosses": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "helping": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "blocking": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "pulling a": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "on right of": {
+            "symmetry": "yes",
+            "negations": "on left of",
+            "action": "no",
+            "state": "no"
+      },
+      "past": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "light": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "protecting": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "support": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "hanging out of": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "swinging at": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "standing alongside": {
+            "symmetry": "no",
+            "negations": "standing far from",
+            "action": "no",
+            "state": "yes"
+      },
+      "walking to": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "growing by": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "with white": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "eating in": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "grasping": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "seated on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "raising": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "inside of a": {
+            "symmetry": "yes",
+            "negations": "outside of a",
+            "action": "no",
+            "state": "no"
+      },
+      "up": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "lifting": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "taken": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "wearing blue": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "yellow": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "moving": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "balancing on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "swinging a": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "reflects": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "staring at": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "using a": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "posted on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "tied around": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "on head of": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "in mans": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "on back": {
+            "symmetry": "yes",
+            "negations": "on front,on side,on top",
+            "action": "no",
+            "state": "no"
+      },
+      "visible in": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "marking": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "cooking in": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "hugging": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "herding": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "surround": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "leads to": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "seen in": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "located in": {
+            "symmetry": "yes",
+            "negations": "located out of,located far from",
+            "action": "no",
+            "state": "no"
+      },
+      "jumping on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "out": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "approaching": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "walking towards": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "waiting at": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "pulls": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "walking behind": {
+            "symmetry": "yes",
+            "negations": "walking in front of",
+            "action": "yes",
+            "state": "no"
+      },
+      "in h": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "jumping": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "within": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "kneeling on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "looking over": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "carried by": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "walking next to": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "meets": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "say": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "sit on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "color": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "skiing": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "before": {
+            "symmetry": "yes",
+            "negations": "after",
+            "action": "no",
+            "state": "no"
+      },
+      "leaning over": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "selling": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "displaying": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "laying on a": {
+            "symmetry": "yes",
+            "negations": "laying next to a,laying by a,laying under a",
+            "action": "no",
+            "state": "yes"
+      },
+      "stands in": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "IN A": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "parked beside": {
+            "symmetry": "no",
+            "negations": "parked far from",
+            "action": "no",
+            "state": "yes"
+      },
+      "entering": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "are on a": {
+            "symmetry": "yes",
+            "negations": "are under a,are below a,are beneath a,are underneath a",
+            "action": "no",
+            "state": "no"
+      },
+      "parked alongside": {
+            "symmetry": "no",
+            "negations": "parked far from",
+            "action": "no",
+            "state": "yes"
+      },
+      "holding a": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "swings": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "biting": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "walking on a": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "parked behind": {
+            "symmetry": "yes",
+            "negations": "parked in front of",
+            "action": "no",
+            "state": "yes"
+      },
+      "chasing": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "licking": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "ten": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "reflecting in": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "on her": {
+            "symmetry": "yes",
+            "negations": "under her,below her,beneath her,underneath her",
+            "action": "no",
+            "state": "no"
+      },
+      "served on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "sitting near": {
+            "symmetry": "no",
+            "negations": "sitting far from",
+            "action": "no",
+            "state": "yes"
+      },
+      "with an": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "sitting with": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "sitting under": {
+            "symmetry": "yes",
+            "negations": "sitting over,sitting above",
+            "action": "no",
+            "state": "yes"
+      },
+      "matches": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "on left of": {
+            "symmetry": "yes",
+            "negations": "on right of",
+            "action": "no",
+            "state": "no"
+      },
+      "walking up": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "held by": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "lines": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "train": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "sniffing": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "makes": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "around a": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "pointing": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "eating a": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "displayed on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "in corner of": {
+            "symmetry": "no",
+            "negations": "in middle of",
+            "action": "no",
+            "state": "no"
+      },
+      "sitting behind": {
+            "symmetry": "no",
+            "negations": "sitting in front of",
+            "action": "no",
+            "state": "yes"
+      },
+      "boarding": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "growing near": {
+            "symmetry": "no",
+            "negations": "growing far from",
+            "action": "no",
+            "state": "yes"
+      },
+      "reflecting off": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "crashing on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "walking near": {
+            "symmetry": "no",
+            "negations": "walking far from",
+            "action": "yes",
+            "state": "no"
+      },
+      "separating": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "flying above": {
+            "symmetry": "yes",
+            "negations": "flying under,flying below",
+            "action": "yes",
+            "state": "no"
+      },
+      "looking in": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "uses": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "formed in": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "draped over": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "growing from": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "leaving": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "sits in": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "stopped at": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "growing next to": {
+            "symmetry": "no",
+            "negations": "growing far from",
+            "action": "no",
+            "state": "yes"
+      },
+      "growing behind": {
+            "symmetry": "yes",
+            "negations": "growing in front of",
+            "action": "no",
+            "state": "yes"
+      },
+      "gripping": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "hangs on": {
+            "symmetry": "yes",
+            "negations": "hangs far from",
+            "action": "no",
+            "state": "yes"
+      },
+      "hits": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "flying through": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "grabbing": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "and white": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "painted": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "following": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "leading": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "along side of": {
+            "symmetry": "no",
+            "negations": "far from",
+            "action": "no",
+            "state": "no"
+      },
+      "serving": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "waiting on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "yes"
+      },
+      "laying": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "besides": {
+            "symmetry": "no",
+            "negations": "far from",
+            "action": "no",
+            "state": "no"
+      },
+      "are on top of": {
+            "symmetry": "no",
+            "negations": "are at bottom of,are on bottom of",
+            "action": "no",
+            "state": "no"
+      },
+      "has on": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "on other side of": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "to a": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "hanging on a": {
+            "symmetry": "yes",
+            "negations": "hanging far from",
+            "action": "no",
+            "state": "yes"
+      },
+      "standing inside": {
+            "symmetry": "yes",
+            "negations": "standing outside",
+            "action": "no",
+            "state": "yes"
+      },
+      "grazing": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "securing": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "topped with": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "walking along": {
+            "symmetry": "no",
+            "negations": "walking far from,walking on top of,walking on,walking under",
+            "action": "yes",
+            "state": "no"
+      },
+      "walking by": {
+            "symmetry": "no",
+            "negations": "walking on top of,walking under,walking below,walking above",
+            "action": "yes",
+            "state": "no"
+      },
+      "with no": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "and a": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "standing under": {
+            "symmetry": "yes",
+            "negations": "standing over,standing above",
+            "action": "no",
+            "state": "yes"
+      },
+      "casted on": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "in an": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "drinking from": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "flying a": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "shining through": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "appearing in": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "on end of": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "Next to": {
+            "symmetry": "no",
+            "negations": "far from,distant from",
+            "action": "no",
+            "state": "no"
+      },
+      "sitting inside": {
+            "symmetry": "yes",
+            "negations": "sitting outside",
+            "action": "no",
+            "state": "yes"
+      },
+      "brown": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "standing in a": {
+            "symmetry": "yes",
+            "negations": "standing on a,standing outside of a",
+            "action": "no",
+            "state": "yes"
+      },
+      "on left side of": {
+            "symmetry": "yes",
+            "negations": "on right side of",
+            "action": "no",
+            "state": "no"
+      },
+      "skiing in": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "carry": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "on right side of": {
+            "symmetry": "yes",
+            "negations": "on left side of",
+            "action": "no",
+            "state": "no"
+      },
+      "cover": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "riding in": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "OF THE": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "right": {
+            "symmetry": "yes",
+            "negations": "left",
+            "action": "no",
+            "state": "no"
+      },
+      "top of": {
+            "symmetry": "yes",
+            "negations": "bottom of",
+            "action": "no",
+            "state": "no"
+      },
+      "growing": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "right of": {
+            "symmetry": "yes",
+            "negations": "left of",
+            "action": "no",
+            "state": "no"
+      },
+      "sitting by": {
+            "symmetry": "no",
+            "negations": "sitting far from,sitting on,sitting under",
+            "action": "no",
+            "state": "yes"
+      },
+      "mounted to": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "red": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "in between": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "cast by": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "on face of": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "wearing black": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "i": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "eating from": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "connecting": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "sitting in front of": {
+            "symmetry": "yes",
+            "negations": "siiting behind",
+            "action": "no",
+            "state": "yes"
+      },
+      "over a": {
+            "symmetry": "yes",
+            "negations": "under a,below a",
+            "action": "no",
+            "state": "no"
+      },
+      "sitting in a": {
+            "symmetry": "yes",
+            "negations": "sitting outside of a,sitting on a,sitting under a",
+            "action": "no",
+            "state": "yes"
+      },
+      "attached": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "in center of": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "walking through": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "skiing down": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "stands on": {
+            "symmetry": "yes",
+            "negations": "stands far from,stands below,stands under",
+            "action": "no",
+            "state": "yes"
+      },
+      "across from": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "green": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "petting": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "sewn on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "parked along": {
+            "symmetry": "no",
+            "negations": "parked far from",
+            "action": "no",
+            "state": "yes"
+      },
+      "decorating": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "lying inside": {
+            "symmetry": "yes",
+            "negations": "lying outside",
+            "action": "no",
+            "state": "yes"
+      },
+      "drawn on": {
+            "symmetry": "yes",
+            "negations": "drawn under,drawn below",
+            "action": "no",
+            "state": "yes"
+      },
+      "at edge of": {
+            "symmetry": "yes",
+            "negations": "at center of,at middle of",
+            "action": "no",
+            "state": "no"
+      },
+      "reflected on": {
+            "symmetry": "yes",
+            "negations": "reflected under,reflected below",
+            "action": "no",
+            "state": "no"
+      },
+      "sticking out": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "running in": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "side of": {
+            "symmetry": "no",
+            "negations": "front of,top of,bottom of",
+            "action": "no",
+            "state": "no"
+      },
+      "in front of a": {
+            "symmetry": "yes",
+            "negations": "behind a",
+            "action": "no",
+            "state": "no"
+      },
+      "hangs from": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "lying next to": {
+            "symmetry": "no",
+            "negations": "standing next to,lying far from",
+            "action": "no",
+            "state": "yes"
+      },
+      "looks at": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "looking out": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "reaching for": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "bordering": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "talking to": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "has an": {
+            "symmetry": "no",
+            "negations": "doesnt have an",
+            "action": "no",
+            "state": "no"
+      },
+      "on mans": {
+            "symmetry": "yes",
+            "negations": "under mans,far from mans,below mans",
+            "action": "no",
+            "state": "no"
+      },
+      "colored": {
+            "symmetry": "yes",
+            "negations": "uncolored",
+            "action": "no",
+            "state": "no"
+      },
+      "on front": {
+            "symmetry": "yes",
+            "negations": "on back,on side,on top",
+            "action": "no",
+            "state": "no"
+      },
+      "working on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "on surface of": {
+            "symmetry": "yes",
+            "negations": "under surface of,below surface of,far from surface of",
+            "action": "no",
+            "state": "no"
+      },
+      "parked in front of": {
+            "symmetry": "yes",
+            "negations": "parked behind",
+            "action": "no",
+            "state": "yes"
+      },
+      "holding up": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "left": {
+            "symmetry": "yes",
+            "negations": "right",
+            "action": "no",
+            "state": "no"
+      },
+      "are attached to": {
+            "symmetry": "no",
+            "negations": "detached from,separate from",
+            "action": "no",
+            "state": "yes"
+      },
+      "among": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "plays": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "reflecting": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "hung on": {
+            "symmetry": "yes",
+            "negations": "hung behind",
+            "action": "no",
+            "state": "yes"
+      },
+      "standing on a": {
+            "symmetry": "yes",
+            "negations": "lying on a,standing under a,standing below a",
+            "action": "no",
+            "state": "yes"
+      },
+      "inside a": {
+            "symmetry": "yes",
+            "negations": "outside of a",
+            "action": "no",
+            "state": "no"
+      },
+      "standing beside": {
+            "symmetry": "no",
+            "negations": "standing far from",
+            "action": "no",
+            "state": "yes"
+      },
+      "on h": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "casts": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "line": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "by a": {
+            "symmetry": "no",
+            "negations": "far from a",
+            "action": "no",
+            "state": "no"
+      },
+      "kicking": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "brushing": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "for a": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "blue": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "supports": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "floating on": {
+            "symmetry": "yes",
+            "negations": "floating below,floating under",
+            "action": "yes",
+            "state": "no"
+      },
+      "surrounds": {
+            "symmetry": "yes",
+            "negations": "surrounded by",
+            "action": "no",
+            "state": "no"
+      },
+      "watch": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "hanging off": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "plugged into": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "parked near": {
+            "symmetry": "yes",
+            "negations": "parked far from",
+            "action": "no",
+            "state": "yes"
+      },
+      "at bottom of": {
+            "symmetry": "yes",
+            "negations": "at top of",
+            "action": "no",
+            "state": "no"
+      },
+      "doing": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "perched on": {
+            "symmetry": "yes",
+            "negations": "perched under,perched below",
+            "action": "no",
+            "state": "yes"
+      },
+      "visible on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "watches": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "wear": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "under a": {
+            "symmetry": "yes",
+            "negations": "above a,on a",
+            "action": "no",
+            "state": "no"
+      },
+      "parked next to": {
+            "symmetry": "yes",
+            "negations": "parked far from",
+            "action": "no",
+            "state": "yes"
+      },
+      "parked on side of": {
+            "symmetry": "yes",
+            "negations": "parked on top of,parked below of,parked far from",
+            "action": "no",
+            "state": "yes"
+      },
+      "walking across": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "side": {
+            "symmetry": "no",
+            "negations": "top,front,back",
+            "action": "no",
+            "state": "no"
+      },
+      "surfing on": {
+            "symmetry": "yes",
+            "negations": "surfing under,surfing below",
+            "action": "yes",
+            "state": "no"
+      },
+      "overlooking": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "forming": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "without": {
+            "symmetry": "no",
+            "negations": "with",
+            "action": "no",
+            "state": "no"
+      },
+      "located on": {
+            "symmetry": "yes",
+            "negations": "located far from",
+            "action": "no",
+            "state": "no"
+      },
+      "wrapped in": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "into": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "parked": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "next to a": {
+            "symmetry": "no",
+            "negations": "far from a",
+            "action": "no",
+            "state": "no"
+      },
+      "are": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "sleeping on": {
+            "symmetry": "yes",
+            "negations": "sleeping under,sleeping below",
+            "action": "yes",
+            "state": "no"
+      },
+      "cast on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "placed on": {
+            "symmetry": "yes",
+            "negations": "placed under,placed below",
+            "action": "no",
+            "state": "no"
+      },
+      "flying over": {
+            "symmetry": "yes",
+            "negations": "flying under,flying below",
+            "action": "yes",
+            "state": "no"
+      },
+      "sitting next to": {
+            "symmetry": "no",
+            "negations": "sitting far from,sitting away from",
+            "action": "no",
+            "state": "yes"
+      },
+      "standing with": {
+            "symmetry": "no",
+            "negations": "lying with",
+            "action": "no",
+            "state": "yes"
+      },
+      "out of": {
+            "symmetry": "yes",
+            "negations": "inside of",
+            "action": "no",
+            "state": "no"
+      },
+      "stuck on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "IN THE": {
+            "symmetry": "yes",
+            "negations": "out of the",
+            "action": "no",
+            "state": "no"
+      },
+      "reflecting on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "black": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "covered by": {
+            "symmetry": "yes",
+            "negations": "covering",
+            "action": "no",
+            "state": "yes"
+      },
+      "parked by": {
+            "symmetry": "yes",
+            "negations": "parked away from,parked far from",
+            "action": "no",
+            "state": "yes"
+      },
+      "at end of": {
+            "symmetry": "no",
+            "negations": "at begin of,at start of",
+            "action": "no",
+            "state": "no"
+      },
+      "parked at": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "ON A": {
+            "symmetry": "yes",
+            "negations": "under a,below a",
+            "action": "no",
+            "state": "no"
+      },
+      "left of": {
+            "symmetry": "yes",
+            "negations": "right of",
+            "action": "no",
+            "state": "no"
+      },
+      "stuck in": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "standing at": {
+            "symmetry": "yes",
+            "negations": "standing far from,lying at",
+            "action": "no",
+            "state": "yes"
+      },
+      "going down": {
+            "symmetry": "yes",
+            "negations": "going up",
+            "action": "yes",
+            "state": "no"
+      },
+      "stacked on": {
+            "symmetry": "yes",
+            "negations": "stacked under",
+            "action": "no",
+            "state": "yes"
+      },
+      "enjoying": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "taking": {
+            "symmetry": "yes",
+            "negations": "leaving",
+            "action": "yes",
+            "state": "no"
+      },
+      "feeding": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "running on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "OF A": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "wrapped around": {
+            "symmetry": "yes",
+            "negations": "wrapped by",
+            "action": "no",
+            "state": "yes"
+      },
+      "topping": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "surfing in": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "standing on top of": {
+            "symmetry": "yes",
+            "negations": "standing under,standing under,standing at bottom of",
+            "action": "no",
+            "state": "yes"
+      },
+      "carrying a": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "surfing": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "making": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "down": {
+            "symmetry": "no",
+            "negations": "up",
+            "action": "no",
+            "state": "no"
+      },
+      "skiing on": {
+            "symmetry": "yes",
+            "negations": "skiing under,skiing below,running on",
+            "action": "yes",
+            "state": "no"
+      },
+      "off": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "walking with": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "on side of a": {
+            "symmetry": "no",
+            "negations": "on top of,on back of",
+            "action": "no",
+            "state": "no"
+      },
+      "on edge of": {
+            "symmetry": "no",
+            "negations": "on center of,on middle of",
+            "action": "no",
+            "state": "no"
+      },
+      "behind a": {
+            "symmetry": "yes",
+            "negations": "in front of a",
+            "action": "no",
+            "state": "no"
+      },
+      "reads": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "on an": {
+            "symmetry": "yes",
+            "negations": "under an,below an",
+            "action": "no",
+            "state": "no"
+      },
+      "waiting for": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "shining on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "at top of": {
+            "symmetry": "yes",
+            "negations": "at bottom of",
+            "action": "no",
+            "state": "no"
+      },
+      "coming from": {
+            "symmetry": "yes",
+            "negations": "going to",
+            "action": "yes",
+            "state": "no"
+      },
+      "at a": {
+            "symmetry": "no",
+            "negations": "far from a",
+            "action": "no",
+            "state": "no"
+      },
+      "grazing on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "tied to": {
+            "symmetry": "no",
+            "negations": "detached from,far from",
+            "action": "no",
+            "state": "yes"
+      },
+      "pushing": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "coming out of": {
+            "symmetry": "yes",
+            "negations": "going in to",
+            "action": "yes",
+            "state": "no"
+      },
+      "hanging above": {
+            "symmetry": "yes",
+            "negations": "hanging under,hanging below",
+            "action": "no",
+            "state": "yes"
+      },
+      "outside of": {
+            "symmetry": "yes",
+            "negations": "inside of",
+            "action": "no",
+            "state": "no"
+      },
+      "alongside": {
+            "symmetry": "no",
+            "negations": "far from",
+            "action": "no",
+            "state": "no"
+      },
+      "carries": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "driving down": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "hanging": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "surrounded by": {
+            "symmetry": "yes",
+            "negations": "surrounds",
+            "action": "no",
+            "state": "no"
+      },
+      "have": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "eats": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "in back of": {
+            "symmetry": "yes",
+            "negations": "in front of",
+            "action": "no",
+            "state": "no"
+      },
+      "Is on": {
+            "symmetry": "yes",
+            "negations": "is under,is below",
+            "action": "no",
+            "state": "no"
+      },
+      "dressed in": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "white": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "belongs to": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "to left of": {
+            "symmetry": "yes",
+            "negations": "to right of",
+            "action": "no",
+            "state": "no"
+      },
+      "worn on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "swimming in": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "playing on": {
+            "symmetry": "yes",
+            "negations": "playing under",
+            "action": "yes",
+            "state": "no"
+      },
+      "reading": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "near a": {
+            "symmetry": "no",
+            "negations": "far from a",
+            "action": "no",
+            "state": "no"
+      },
+      "looking": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "wears a": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "in front": {
+            "symmetry": "yes",
+            "negations": "behind",
+            "action": "no",
+            "state": "no"
+      },
+      "close to": {
+            "symmetry": "no",
+            "negations": "far from",
+            "action": "no",
+            "state": "no"
+      },
+      "drinking": {
+            "symmetry": "yes",
+            "negations": "",
+            "action":"yes",
+            "state": "no"
+      },
+      "driving": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "beyond": {
+            "symmetry": "no",
+            "negations": "before",
+            "action": "no",
+            "state": "no"
+      },
+      "front of": {
+            "symmetry": "yes",
+            "negations": "back of,side of",
+            "action": "no",
+            "state": "no"
+      },
+      "leading to": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "rides": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "holds": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "to right of": {
+            "symmetry": "yes",
+            "negations": "to left of",
+            "action": "no",
+            "state": "no"
+      },
+      "standing in front of": {
+            "symmetry": "yes",
+            "negations": "standing behind,lying in front of",
+            "action": "no",
+            "state": "yes"
+      },
+      "reflected in": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "leaning against": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "playing in": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "on side": {
+            "symmetry": "no",
+            "negations": "on top",
+            "action": "no",
+            "state": "no"
+      },
+      "covers": {
+            "symmetry": "yes",
+            "negations": "covered by",
+            "action": "no",
+            "state": "no"
+      },
+      "atop": {
+            "symmetry": "yes",
+            "negations": "below",
+            "action": "no",
+            "state": "no"
+      },
+      "catching": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "on top of a": {
+            "symmetry": "yes",
+            "negations": "under a,below a",
+            "action": "no",
+            "state": "no"
+      },
+      "talking on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "facing": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "hanging over": {
+            "symmetry": "yes",
+            "negations": "hanging under,hanging below",
+            "action": "no",
+            "state": "yes"
+      },
+      "sticking out of": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "casting": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "sitting on a": {
+            "symmetry": "yes",
+            "negations": "standing on a,sitting under a,sitting below a",
+            "action": "no",
+            "state": "yes"
+      },
+      "standing near": {
+            "symmetry": "no",
+            "negations": "standing far from",
+            "action": "no",
+            "state": "yes"
+      },
+      "lying in": {
+            "symmetry": "yes",
+            "negations": "lying out of,lying far from,standing in",
+            "action": "no",
+            "state": "yes"
+      },
+      "containing": {
+            "symmetry": "yes",
+            "negations": "contained by",
+            "action": "yes",
+            "state": "no"
+      },
+      "on top": {
+            "symmetry": "yes",
+            "negations": "at bottom,under,below",
+            "action": "no",
+            "state": "no"
+      },
+      "grazing in": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "cutting": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "ON THE": {
+            "symmetry": "yes",
+            "negations": "under the,below the,far from",
+            "action": "no",
+            "state": "no"
+      },
+      "playing with": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "front": {
+            "symmetry": "yes",
+            "negations": "back,side,top",
+            "action": "no",
+            "state": "no"
+      },
+      "covered": {
+            "symmetry": "yes",
+            "negations": "covering",
+            "action": "no",
+            "state": "no"
+      },
+      "throwing": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "sits on": {
+            "symmetry": "yes",
+            "negations": "stands on",
+            "action": "no",
+            "state": "yes"
+      },
+      "floating in": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "through": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "on bottom of": {
+            "symmetry": "yes",
+            "negations": "on side of,on top of",
+            "action": "no",
+            "state": "no"
+      },
+      "sitting": {
+            "symmetry": "no",
+            "negations": "standing,lying,crouching",
+            "action": "yes",
+            "state": "no"
+      },
+      "lining": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "surrounding": {
+            "symmetry": "yes",
+            "negations": "surrounded by",
+            "action": "yes",
+            "state": "no"
+      },
+      "connected to": {
+            "symmetry": "no",
+            "negations": "detached from,far from",
+            "action": "no",
+            "state": "yes"
+      },
+      "walking down": {
+            "symmetry": "yes",
+            "negations": "walking up",
+            "action": "yes",
+            "state": "no"
+      },
+      "riding a": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "a": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "written on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "are in": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "resting on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "standing by": {
+            "symmetry": "no",
+            "negations": "standing far from,lying by",
+            "action": "no",
+            "state": "yes"
+      },
+      "walking": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "parked in": {
+            "symmetry": "yes",
+            "negations": "parked out of,parked far from",
+            "action": "no",
+            "state": "yes"
+      },
+      "riding on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "driving on": {
+            "symmetry": "yes",
+            "negations": "driving under,driving below",
+            "action": "yes",
+            "state": "no"
+      },
+      "standing behind": {
+            "symmetry": "yes",
+            "negations": "standing in front of,lying behind,crouching behind",
+            "action": "no",
+            "state": "yes"
+      },
+      "leaning on": {
+            "symmetry": "yes",
+            "negations": "leaning far from",
+            "action": "no",
+            "state": "yes"
+      },
+      "standing": {
+            "symmetry": "no",
+            "negations": "lying,crouching",
+            "action": "no",
+            "state": "yes"
+      },
+      "contains": {
+            "symmetry": "yes",
+            "negations": "contained by",
+            "action": "no",
+            "state": "no"
+      },
+      "laying in": {
+            "symmetry": "yes",
+            "negations": "standing in",
+            "action": "no",
+            "state": "yes"
+      },
+      "growing in": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "supporting": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "touching": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "next": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "lying on top of": {
+            "symmetry": "yes",
+            "negations": "lying at bottom of,lying under,lying below,standing on top of",
+            "action": "no",
+            "state": "yes"
+      },
+      "hitting": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "of an": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "pulling": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "covered with": {
+            "symmetry": "yes",
+            "negations": "covering",
+            "action": "no",
+            "state": "no"
+      },
+      "standing next to": {
+            "symmetry": "no",
+            "negations": "standing far from,lying next to",
+            "action": "no",
+            "state": "yes"
+      },
+      "beneath": {
+            "symmetry": "yes",
+            "negations": "above,over",
+            "action": "no",
+            "state": "no"
+      },
+      "adorning": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "full of": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "in middle of": {
+            "symmetry": "yes",
+            "negations": "on edge of",
+            "action": "no",
+            "state": "no"
+      },
+      "built into": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "swinging": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "sitting on top of": {
+            "symmetry": "yes",
+            "negations": "sitting at bottom of,standing on top of,sitting under,sitting below",
+            "action": "no",
+            "state": "yes"
+      },
+      "filled with": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "part of": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "flying": {
+            "symmetry": "yes",
+            "negations": "running,walking,driving",
+            "action": "yes",
+            "state": "no"
+      },
+      "underneath": {
+            "symmetry": "yes",
+            "negations": "above",
+            "action": "no",
+            "state": "no"
+      },
+      "hanging in": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "sitting at": {
+            "symmetry": "yes",
+            "negations": "standing at,sitting far from",
+            "action": "no",
+            "state": "yes"
+      },
+      "worn by": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "made of": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "printed on": {
+            "symmetry": "yes",
+            "negations": "painted on",
+            "action": "no",
+            "state": "yes"
+      },
+      "crossing": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "outside": {
+            "symmetry": "yes",
+            "negations": "inside",
+            "action": "no",
+            "state": "no"
+      },
+      "using": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "walking in": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "has a": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "on back of": {
+            "symmetry": "yes",
+            "negations": "on front of,on side of,on top of",
+            "action": "no",
+            "state": "no"
+      },
+      "lying on": {
+            "symmetry": "yes",
+            "negations": "standing on,lying under,lying below",
+            "action": "no",
+            "state": "yes"
+      },
+      "growing on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "are on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "flying in": {
+            "symmetry": "yes",
+            "negations": "walking in,running in",
+            "action": "yes",
+            "state": "no"
+      },
+      "across": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "covered in": {
+            "symmetry": "yes",
+            "negations": "covering,covers",
+            "action": "no",
+            "state": "yes"
+      },
+      "mounted on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "says": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "to": {
+            "symmetry": "no",
+            "negations": "from",
+            "action": "no",
+            "state": "no"
+      },
+      "parked on": {
+            "symmetry": "yes",
+            "negations": "parked away from,parked below,parked under",
+            "action": "no",
+            "state": "yes"
+      },
+      "from": {
+            "symmetry": "no",
+            "negations": "to",
+            "action": "no",
+            "state": "no"
+      },
+      "with a": {
+            "symmetry": "no",
+            "negations": "without a",
+            "action": "no",
+            "state": "no"
+      },
+      "looking at": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "against": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "painted on": {
+            "symmetry": "yes",
+            "negations": "printed on",
+            "action": "no",
+            "state": "no"
+      },
+      "below": {
+            "symmetry": "yes",
+            "negations": "above,over",
+            "action": "no",
+            "state": "no"
+      },
+      "inside of": {
+            "symmetry": "yes",
+            "negations": "outside of",
+            "action": "no",
+            "state": "no"
+      },
+      "watching": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "laying on": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "between": {
+            "symmetry": "yes",
+            "negations": "far from",
+            "action": "no",
+            "state": "no"
+      },
+      "playing": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "sitting in": {
+            "symmetry": "yes",
+            "negations": "standing in",
+            "action": "no",
+            "state": "yes"
+      },
+      "along": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "belonging to": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "and": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "covering": {
+            "symmetry": "yes",
+            "negations": "covered by",
+            "action": "yes",
+            "state": "no"
+      },
+      "wearing": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "hanging from": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "yes"
+      },
+      "eating": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "walking on": {
+            "symmetry": "yes",
+            "negations": "walking under,walking below,walking far from",
+            "action": "yes",
+            "state": "no"
+      },
+      "of": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "on front of": {
+            "symmetry": "yes",
+            "negations": "on back of,on top of,on side of",
+            "action": "no",
+            "state": "no"
+      },
+      "carrying": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "hanging on": {
+            "symmetry": "yes",
+            "negations": "hanging far from,hanging below,hanging under",
+            "action": "no",
+            "state": "yes"
+      },
+      "inside": {
+            "symmetry": "yes",
+            "negations": "outside",
+            "action": "no",
+            "state": "no"
+      },
+      "standing in": {
+            "symmetry": "yes",
+            "negations": "lying in,crouching in",
+            "action": "no",
+            "state": "yes"
+      },
+      "wearing a": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "holding": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "in": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "beside": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "standing on": {
+            "symmetry": "yes",
+            "negations": "lying on,standing under,standing below",
+            "action": "no",
+            "state": "yes"
+      },
+      "riding": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "around": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "for": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "over": {
+            "symmetry": "yes",
+            "negations": "under,below",
+            "action": "no",
+            "state": "no"
+      },
+      "at": {
+            "symmetry": "no",
+            "negations": "far from",
+            "action": "no",
+            "state": "no"
+      },
+      "attached to": {
+            "symmetry": "no",
+            "negations": "detached from,far from",
+            "action": "no",
+            "state": "yes"
+      },
+      "in a": {
+            "symmetry": "yes",
+            "negations": "outside of a",
+            "action": "no",
+            "state": "no"
+      },
+      "on side of": {
+            "symmetry": "no",
+            "negations": "on back of,on front of,on top of",
+            "action": "no",
+            "state": "no"
+      },
+      "in front of": {
+            "symmetry": "yes",
+            "negations": "behind",
+            "action": "no",
+            "state": "no"
+      },
+      "sitting on": {
+            "symmetry": "yes",
+            "negations": "standing on,sitting under,sitting below,sitting far from",
+            "action": "no",
+            "state": "yes"
+      },
+      "above": {
+            "symmetry": "yes",
+            "negations": "below,under",
+            "action": "no",
+            "state": "no"
+      },
+      "by": {
+            "symmetry": "no",
+            "negations": "far from",
+            "action": "no",
+            "state": "no"
+      },
+      "wears": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "of a": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "under": {
+            "symmetry": "yes",
+            "negations": "over,above",
+            "action": "no",
+            "state": "no"
+      },
+      "next to": {
+            "symmetry": "no",
+            "negations": "far from,far away from",
+            "action": "no",
+            "state": "no"
+      },
+      "on": {
+            "symmetry": "yes",
+            "negations": "far from,under,below,beneath",
+            "action": "no",
+            "state": "no"
+      },
+      "near": {
+            "symmetry": "no",
+            "negations": "far from",
+            "action": "no",
+            "state": "no"
+      },
+      "on top of": {
+            "symmetry": "yes",
+            "negations": "at bottom of,under,below,beneath,underneath",
+            "action": "no",
+            "state": "no"
+      },
+      "on a": {
+            "symmetry": "yes",
+            "negations": "under a,below a,beneath a,underneath a",
+            "action": "no",
+            "state": "no"
+      },
+      "has": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "behind": {
+            "symmetry": "yes",
+            "negations": "in front of",
+            "action": "no",
+            "state": "no"
+      },
+      "with": {
+            "symmetry": "no",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "WEARING": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "yes",
+            "state": "no"
+      },
+      "IN": {
+            "symmetry": "yes",
+            "negations": "",
+            "action": "no",
+            "state": "no"
+      },
+      "ON": {
+            "symmetry": "yes",
+            "negations": "under,below,beneath,underneath,far from",
+            "action": "no",
+            "state": "no"
+      }
+}
